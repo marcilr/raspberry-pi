@@ -1,0 +1,13 @@
+links.txt
+Created Sat Sep 30 10:53:51 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Raspberry Pi related links
+
+
+Links
+=====
+Raspberry PI 3 Model B 1.2GHz 64-bit quad-core ARMv8 CPU, 1GB RAM
+price: $35.20 (amazon prime - September 30, 2017)
+https://www.amazon.com/Raspberry-Model-1-2GHz-64-bit-quad-core/dp/B01CD5VC92/ref=sr_1_4?ie=UTF8&qid=1506796381&sr=8-4&keywords=raspberry-pi
