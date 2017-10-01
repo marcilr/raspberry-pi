@@ -1,0 +1,37 @@
+links.txt
+Created Sat Sep 30 19:03:54 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Pi Holder related links
+
+
+Links
+=====
+Pi Holder (Pi 3) Case with Heat Dissipation
+Wicked Aluminium
+o Milled out of 6061-T6 Aircraft Grade Aluminum
+o This case is designed and manufactured by Barch Designs, located in the United States.
+o Custom styles are offered for this case in higher quantities.
+  Contact me for logo engraving details.
+  i.e. Looks like no raspberry by default.
+price: $64.99 (out of stock - September 30, 2017)https://wickedaluminum.com/products/pi-holder-pi-3-case-w-heat-dissipation
+
+RASPBERRY PI / CASES
+Adafruit
+https://www.adafruit.com/category/395
+
+Pi Holder milled aluminum case for Raspberry Pi Model B no logo
+PRODUCT ID: 1036
+price: $74.95 (discontinued - September 30, 2017)
+https://www.adafruit.com/product/1036
+
+Pi Holder milled aluminum case for Raspberry Pi Model B w/logo
+PRODUCT ID: 1039
+price: $74.95 (discontinued - September 30, 2017)
+https://www.adafruit.com/product/1039
+
+Single Board PC CasesSort by:Cases for small computing devices
+such as the Raspberry Pi and ODroid C1.
+Wicked Aluminium
+https://wickedaluminum.com/collections/sbpccases
