@@ -1,0 +1,20 @@
+bluetooth-remote.txt
+Created Sat Sep 30 19:47:07 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Bluetooth remote
+
+
+Links
+=====
+MINIX A2
+Looks very nice with full qwerty keyboard on back.
+Has configuration here
+http://kodi.wiki/view/Remote_controls/RF/MINIX_A2
+
+Remote controls
+Kodi
+RF remote controls (such as 2.4 GHz dongles and Bluetooth remotes)
+http://kodi.wiki/view/remote_controls
+http://kodi.wiki/view/Remote_controls/RF
