@@ -8,9 +8,18 @@ Raspberry Pi related links
 
 Links
 =====
+Everything You Need to Set Up Bluetooth on the Raspberry Pi 3
+Thorin Klosowski
+4/01/16 4:00pm
+Using Raspbian
+https://lifehacker.com/everything-you-need-to-set-up-bluetooth-on-the-raspberr-1768482065
+
 Raspberry PI 3 Model B 1.2GHz 64-bit quad-core ARMv8 CPU, 1GB RAM
 price: $35.20 (amazon prime - September 30, 2017)
 https://www.amazon.com/Raspberry-Model-1-2GHz-64-bit-quad-core/dp/B01CD5VC92/ref=sr_1_4?ie=UTF8&qid=1506796381&sr=8-4&keywords=raspberry-pi
+
+Pi 3 in a metal box? No problem!
+https://hackaday.io/project/10091-raspberry-pi-3-external-antenna
 
 SunFounder Raspberry Pi 4000mAh 5V/2A Lithium Battery Power Pack Expansion Board-Plus
 Power Module for Raspberry Pi 3,2 Model B and 1 Model B+
