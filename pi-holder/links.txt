@@ -8,6 +8,12 @@ Pi Holder related links
 
 Links
 =====
+Barch Designs is a custom CNC manufacturing shop where we specialize
+in billet aluminum products made just for you. 
+Tel: 877-201-9771 Fax: 810-299-9924
+Actual makers of the Pi Holder case 
+http://www.barchdesigns.com/
+
 Pi Holder (Pi 3) Case with Heat Dissipation
 Wicked Aluminium
 o Milled out of 6061-T6 Aircraft Grade Aluminum
@@ -30,6 +36,11 @@ Pi Holder milled aluminum case for Raspberry Pi Model B w/logo
 PRODUCT ID: 1039
 price: $74.95 (discontinued - September 30, 2017)
 https://www.adafruit.com/product/1039
+
+Raspberry Pi Cases
+by Barch Designs 
+Some great pics and details here
+http://www.raspberry-pi-case.com/
 
 Single Board PC CasesSort by:Cases for small computing devices
 such as the Raspberry Pi and ODroid C1.
