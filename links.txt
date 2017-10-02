@@ -8,18 +8,31 @@ Raspberry Pi related links
 
 Links
 =====
-Everything You Need to Set Up Bluetooth on the Raspberry Pi 3
+Everything You Need to Set Up Bluetooth on the Raspberry Pi 3   <===
 Thorin Klosowski
 4/01/16 4:00pm
 Using Raspbian
+NOTE: Some great quotes here.
 https://lifehacker.com/everything-you-need-to-set-up-bluetooth-on-the-raspberr-1768482065
 
 Pi 3 in a metal box? No problem!
 https://hackaday.io/project/10091-raspberry-pi-3-external-antenna
 
+Pi Holder (Pi 3) Case with Heat Dissipation
+price: $64.99
+https://wickedaluminum.com/collections/frontpage/products/pi-holder-pi-3-case-w-heat-dissipation
+
+Pi Holder (adafruit - discontinued)
+https://www.adafruit.com/product/1036
+
 Raspberry PI 3 Model B 1.2GHz 64-bit quad-core ARMv8 CPU, 1GB RAM
 price: $35.20 (amazon prime - September 30, 2017)
 https://www.amazon.com/Raspberry-Model-1-2GHz-64-bit-quad-core/dp/B01CD5VC92/ref=sr_1_4?ie=UTF8&qid=1506796381&sr=8-4&keywords=raspberry-pi
+
+Raspberry Pi Cases                           <===
+by Barch Designs 
+Some great pictures of 3D printer and such
+http://www.raspberry-pi-case.com/
 
 RPi USB Bluetooth adapters                                                            <===
 Lists USB Bluetooth adapters that work with Openelec, Raspbian, RaspBMC, and Xbian.
@@ -35,3 +48,7 @@ price: $16.99 (amazon prime - September 30, 2017)
 Wow, make for nice stacked setup powered off of 2x 18650 batteries.
 Very nice.
 https://www.amazon.com/dp/B06Y2XBV8Q?psc=1
+
+Wicked Aluminum
+Makers of Pi Holder
+https://wickedaluminum.com/
