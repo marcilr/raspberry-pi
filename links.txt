@@ -35,6 +35,12 @@ Raspberry PI 3 Model B 1.2GHz 64-bit quad-core ARMv8 CPU, 1GB RAM
 price: $35.20 (amazon prime - September 30, 2017)
 https://www.amazon.com/Raspberry-Model-1-2GHz-64-bit-quad-core/dp/B01CD5VC92/ref=sr_1_4?ie=UTF8&qid=1506796381&sr=8-4&keywords=raspberry-pi
 
+Raspberry Pi 4  <=== Looks nice
+Your tiny, dual-display, desktop computer
+Looks nice
+price: from 35 (Fri Sep 27, 2019)
+https://www.raspberrypi.org/
+
 Raspberry Pi Cases                           <===
 by Barch Designs 
 Some great pictures of 3D printer and such
