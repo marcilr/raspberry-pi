@@ -40,6 +40,11 @@ by Barch Designs
 Some great pictures of 3D printer and such
 http://www.raspberry-pi-case.com/
 
+Raspberry Pi 3 Starter Kit with Raspberry Pi 3 Model B Case,
+Heatsink and Power Supply
+price: $49.99 (amazon prime - Feb 1, 2018)
+https://www.amazon.com/gp/product/B06Y6291VS
+
 RPi USB Bluetooth adapters                                                            <===
 Lists USB Bluetooth adapters that work with Openelec, Raspbian, RaspBMC, and Xbian.
 IOGear GBU521 - Bluetooth 4.0 Micro adaptor looks good.
