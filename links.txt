@@ -15,11 +15,17 @@ Using Raspbian
 NOTE: Some great quotes here.
 https://lifehacker.com/everything-you-need-to-set-up-bluetooth-on-the-raspberr-1768482065
 
+Noza Tec 1 Raspberry PI 3 Starter Kit with Case,
+Power Supply, Heatsink, HDMI Cable SD Card, 32 GB
+by Noza Tec
+price: Currently unavailable (Fri Sep 27, 2019)
+https://www.amazon.com/gp/product/B06Y6291VS
 Pi 3 in a metal box? No problem!
 https://hackaday.io/project/10091-raspberry-pi-3-external-antenna
 
 Pi Holder (Pi 3) Case with Heat Dissipation
 price: $64.99
+Sold out (Sep 27, 2019)
 https://wickedaluminum.com/collections/frontpage/products/pi-holder-pi-3-case-w-heat-dissipation
 
 Pi Holder (adafruit - discontinued)
